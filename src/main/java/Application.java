@@ -1,6 +1,5 @@
-import com.mikhalkou.learn.sprint1.conference.model.Speaker;
-import com.mikhalkou.learn.sprint1.conference.service.SpeakerService;
-import com.mikhalkou.learn.sprint1.conference.service.SpeakerServiceImpl;
+import com.mikhalkou.learn.spring1.conference.model.Speaker;
+import com.mikhalkou.learn.spring1.conference.service.SpeakerService;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 

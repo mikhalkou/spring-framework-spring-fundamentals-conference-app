@@ -1,4 +1,4 @@
-package com.mikhalkou.learn.sprint1.conference.model;
+package com.mikhalkou.learn.spring1.conference.model;
 
 public class Speaker {
     private String firstName;
