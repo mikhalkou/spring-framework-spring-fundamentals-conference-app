@@ -10,6 +10,6 @@ public class Application {
         SpeakerService service = context.getBean("speakerService", SpeakerService.class);
 
         Speaker speaker = service.findAll().get(0);
-        System.out.println(speaker.getFirstName() + " " + speaker.getLastName());
+        System.out.println(speaker);
     }
 }
